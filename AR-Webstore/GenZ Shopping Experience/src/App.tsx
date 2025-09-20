@@ -11,7 +11,6 @@ import { ProductDetailModal } from "./components/ProductDetailModal";
 import { ARTryOnModal } from "./components/ARTryOnModal";
 import { SplashScreen } from "./components/SplashScreen";
 import { toast } from "sonner@2.0.3";
-
 interface Product {
   id: string;
   name: string;
